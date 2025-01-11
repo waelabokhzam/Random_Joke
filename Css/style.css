@@ -17,6 +17,7 @@ body .container{
     text-align: center;
     border-radius: 20px;
     text-transform: capitalize;
+    margin: 10px auto;
 }
 .container span{
     font-size: 50px;
@@ -26,6 +27,7 @@ body .container{
     color: white;
 }
 .container p{
+    transition: 2s;
     color: white;
     letter-spacing: 2px;
     line-height: 1.6;
